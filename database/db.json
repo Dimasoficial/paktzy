@@ -1,0 +1,31 @@
+{
+  "users": {
+    "6289686698100@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    }
+  },
+  "chats": {
+    "6289686698100@s.whatsapp.net": {}
+  },
+  "game": {},
+  "database": {},
+  "settings": {
+    "6289686698100@s.whatsapp.net": {
+      "status": 0,
+      "stock": 10,
+      "autobio": false,
+      "autoTyping": false,
+      "autoRecord": true,
+      "autoButton": true,
+      "public": false,
+      "setPrefix": "all",
+      "onlygrub": false,
+      "autoread": false,
+      "menuType": "buttonImage"
+    }
+  },
+  "setting": {},
+  "others": {},
+  "sticker": {}
+}
